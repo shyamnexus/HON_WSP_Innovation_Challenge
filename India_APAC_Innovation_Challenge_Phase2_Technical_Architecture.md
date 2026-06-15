@@ -17,6 +17,12 @@ Honeywell can extend the wearable smart patch into a hospital-grade connected-ca
 - HMS/EHR/EMR integration through ADT, FHIR, HL7, or hospital-specific APIs.
 - Command-center applications for clinical, operations, biomedical, and leadership users.
 
+## Clinical imperative
+
+A leading cardiologist in India described the critical care reality clearly: world-class hospitals have the capability to revive and stabilize patients when they reach the operating theatre or intervention team in time. The opportunity is to create that time window earlier.
+
+Honeywell Connected Care and Hospital Operations Platform supports that goal by continuously monitoring patient risk signals, converting vitals and trend changes into risk scores and escalation queues, predicting deterioration earlier, and helping clinical teams intervene before a cardiac event becomes fatal.
+
 ## Reference architecture layers
 
 ### 1. Device and sensing layer
