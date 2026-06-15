@@ -1,18 +1,18 @@
-# India and APAC Innovation Challenge - Phase 2 Submission
+# Honeywell India and APAC Innovation Challenge - Phase 2 Submission
 
 ## Idea title
 
-Connected Care and Hospital Operations Platform
+Honeywell Connected Care and Hospital Operations Platform
 
 ## One-line pitch
 
-Expand the wearable smart patch into a modular hospital intelligence platform that combines continuous patient monitoring, connected blood pressure and vitals capture, asset tracking, bed management, and command-center analytics to improve clinical response, staff productivity, and capacity utilization across India and APAC hospitals.
+Expand Honeywell's wearable smart patch into a modular hospital intelligence platform that combines continuous patient monitoring, connected blood pressure and vitals capture, asset tracking, bed management, and command-center analytics to improve clinical response, staff productivity, and capacity utilization across India and APAC hospitals.
 
 ## Executive summary
 
-The current wearable smart patch concept creates a strong entry point into continuous patient monitoring for post-operative, cardiac, ICU step-down, and high-risk ward patients. The Phase 2 opportunity is to make this bigger than a device by turning it into a connected care and operations platform for hospitals.
+The current Honeywell wearable smart patch concept creates a strong entry point into continuous patient monitoring for post-operative, cardiac, ICU step-down, and high-risk ward patients. The Phase 2 opportunity is to make this bigger than a device by turning it into a connected care and operations platform for hospitals.
 
-The proposed solution connects reusable wearable patches, BP monitors, SpO2 and temperature devices, bed sensors, and asset tags through a secure edge and cloud architecture. It converts signals into actionable workflows: early warning alerts, missed-vitals escalation, bed availability visibility, asset location, discharge readiness, and command-center dashboards. Hospitals can start with one clinical use case and scale module by module across wards, emergency departments, operating rooms, biomedical teams, and hospital operations.
+The proposed Honeywell solution connects reusable wearable patches, BP monitors, SpO2 and temperature devices, bed sensors, and asset tags through a secure edge and cloud architecture. It converts signals into actionable workflows: early warning alerts, missed-vitals escalation, bed availability visibility, asset location, discharge readiness, and command-center dashboards. Hospitals can start with one clinical use case and scale module by module across wards, emergency departments, operating rooms, biomedical teams, and hospital operations.
 
 ## The problem to solve
 
@@ -116,7 +116,7 @@ The opportunity is especially relevant for India and APAC because the region inc
 
 ## Differentiation
 
-This is not just a wearable patch. It is a modular platform that connects patient monitoring and hospital operations:
+This is not just a wearable patch. It is a Honeywell modular platform that connects patient monitoring and hospital operations:
 
 - Starts from a real device concept already being developed.
 - Adds adjacent high-value modules that hospitals already need: BP monitoring, bed visibility, and asset tracking.
