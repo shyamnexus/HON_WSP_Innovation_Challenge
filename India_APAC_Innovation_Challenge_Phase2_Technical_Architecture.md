@@ -23,6 +23,20 @@ A leading cardiologist in India described the critical care reality clearly: wor
 
 Honeywell Connected Care and Hospital Operations Platform supports that goal by continuously monitoring patient risk signals, converting vitals and trend changes into risk scores and escalation queues, predicting deterioration earlier, and helping clinical teams intervene before a cardiac event becomes fatal.
 
+## What has already been achieved in Wearable Smart Patch
+
+The existing Wearable Smart Patch work provides a strong foundation for the broader Connected Hospital platform:
+
+- Clinical monitoring scope has been defined across ECG, heart rate, skin temperature, respiration, posture, restlessness, SpO2 expansion, and connected vitals workflows.
+- MVO1 requirements and business overview have been documented with Narayana Hrudayalaya, including periodic telemetry, rechargeable reusable device expectations, and API integration to the hospital endpoint.
+- Industrial design concepts and physical prototype visuals have been created, including electrode placement, ECG cable options, USB-C interface, enclosure concepts, and current proof-of-concept device packaging.
+- Hardware architecture has been developed for the MVO path, including ESP32-S3-MINI-1 connectivity, MAX30003 ECG AFE, TMP1075 temperature sensor, ADXL367 accelerometer, MAX20356 PMIC, Li-polymer battery, USB-C interface, LED indication, and debug support.
+- Deliverable set has been identified: smart patch device, ECG-USB cable, adhesive samples, user manual, USB Type-C charger, and ECG waveform plotting utility for developer testing.
+- Hospital integration responsibilities have been mapped across Honeywell and Narayana Hrudayalaya, including hardware/firmware, backend/server, periodic data push, API consumption, HMS/patient-ID integration, reporting, alerts, clinical validation, and certification ownership.
+- ECG monitoring protocols, target patient cohorts, and hospital segments have been researched across pre-surgical, post-cardiac surgery, post-major surgery, emergency chest pain, arrhythmia symptoms, ICU, medium hospitals, multi-specialty hospitals, medical colleges, and cardiac centers.
+- Commercial and business-case work has been prepared for hospital deployment, including bed-capacity assumptions, launch-device assumptions, pricing rationale, patient charge positioning, lifecycle assumptions, and benefit/cost framing.
+- MVO expansion path has been outlined from MVO1 ECG/temperature/LED/wakeup capability toward respiration rate, heart-rate variability, posture, IPX4, and SpO2 expansion.
+
 ## Reference architecture layers
 
 ### 1. Device and sensing layer
